@@ -1,4 +1,4 @@
-Hello y'all, we're AXOME,
+Hi, we're AXOME,
 
 we want to build and create apps helping people to build & create.
 To be creative.
